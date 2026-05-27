@@ -1,7 +1,13 @@
 # Learn
 **Belajar Python**
 Python adalah bahasa pemrograman tingkat tinggi yang populer, mudah dipelajari, dan serbaguna (general-purpose).
-- Daftar ISI : [INDEX](./Page/0.md)
+
+* [LearnPythonORG Code](./LearnPython.ORG/)
+* [Arfy Slowly](./Arfy-Slowy/)
+
+## Sumber Belajar
+* Learn Python : [Link](https://www.learnpython.org/)
+* Arfy Sloly : [Link](https://youtube.com/playlist?list=PLCinWjGoPhnsfwti5vClQuKjt-BbFLsFM&si=KKLHQLq6ssyXqXir)
 
 ## Website
 Hasil Belajar : https://T4n-Labs.github.io/learn
